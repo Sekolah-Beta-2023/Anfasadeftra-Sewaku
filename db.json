@@ -1,0 +1,153 @@
+{
+  "best-products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Jasa Fotografer",
+      "harga": 100000,
+      "is_ready": true,
+      "gambar": "foto.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Jasa Videografer",
+      "harga": 200000,
+      "is_ready": true,
+      "gambar": "video.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Jasa Desain Grafis",
+      "harga": 300000,
+      "is_ready": true,
+      "gambar": "desain.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Jasa videografer",
+      "harga": 100000,
+      "is_ready": true,
+      "gambar": "foto.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Jasa Fotografer",
+      "harga": 200000,
+      "is_ready": true,
+      "gambar": "video.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Jasa Desain Grafis",
+      "harga": 300000,
+      "is_ready": true,
+      "gambar": "desain.jpg"
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Jasa Programmer",
+      "harga": 400000,
+      "is_ready": true,
+      "gambar": "skill.jpg"
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Jasa Copywriting",
+      "harga": 500000,
+      "is_ready": true,
+      "gambar": "data.jpg"
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "Jasa Terjemahan artikel",
+      "harga": 600000,
+      "is_ready": true,
+      "gambar": "video.jpg"
+    }
+  ],
+  "keranjangs": [],
+  "pesanans": [
+    {
+      "nama": "Afif",
+      "noMeja": "3",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": "1",
+          "keterangan": "Pedes",
+          "products": {
+            "id": 1,
+            "kode": "K-01",
+            "nama": "Sate Ayam",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-ayam.jpg"
+          },
+          "id": 1
+        },
+        {
+          "jumlah_pemesanan": "1",
+          "products": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Nasi Goreng Telur",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-goreng-telor.jpg"
+          },
+          "id": 2
+        }
+      ],
+      "id": 1
+    },
+    {
+      "nama": "Anfasa",
+      "noMeja": "1234",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": "1",
+          "keterangan": "adakan",
+          "products": {
+            "id": 1,
+            "kode": "K-01",
+            "nama": "Jasa videografer",
+            "harga": 100000,
+            "is_ready": true,
+            "gambar": "foto.jpg"
+          },
+          "id": 1
+        }
+      ],
+      "id": 2
+    },
+    {
+      "nama": "anfasa ade fatra",
+      "noMeja": "10102023",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": "2",
+          "keterangan": "menggunakan kamera",
+          "products": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Jasa Fotografer",
+            "harga": 200000,
+            "is_ready": true,
+            "gambar": "video.jpg"
+          },
+          "id": 1
+        }
+      ],
+      "id": 3
+    }
+  ]
+}
