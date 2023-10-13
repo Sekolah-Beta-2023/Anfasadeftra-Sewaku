@@ -31,6 +31,6 @@ https://github.com/typicode/json-server
 Terima kasih kepada Alkademi yang telah memfasilitasi program ini, Terima kasih kepada para mentor, asisten mentor, dan semua orang-orang yang terlibat dalam bootcamp ini
 
 ### Profil saya
-* Instagram : @anfasadeftra
-* Github : @Anfasadeftra
-* Linkedin : Anfasa Ade Fatra
+* Instagram : [@anfasadeftra](https://www.instagram.com/anfasadeftra/)
+* Github : [@Anfasadeftra](https://github.com/Anfasadeftra)
+* Linkedin : [Anfasa Ade Fatra](https://www.linkedin.com/in/anfasa-ade-fatra/)
